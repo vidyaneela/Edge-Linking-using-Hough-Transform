@@ -25,7 +25,10 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 Display the image and end the program.
 
 ## Program:
-```Python
+```
+Developed by : Vidya Neela M
+Reg no : 212221230120
+```
 
 # Read image and convert it to grayscale image
 
@@ -90,6 +93,7 @@ plt.show()
 
 ### Display the result of Hough transform
 
+![image](https://user-images.githubusercontent.com/94169318/235286680-d5740dad-7816-4e5a-a55c-b725a7e3e8c8.png)
 
 
 
